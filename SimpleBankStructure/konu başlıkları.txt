@@ -1,0 +1,4 @@
+defensive copy, deep copy, shallow copy.
+Immutable classes
+Unmodifiable collections
+records

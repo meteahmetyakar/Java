@@ -1,0 +1,12 @@
+
+Student Id,Country Code,Enrolled Year, Age, Gender,Experienced,Course Code,Engagement Month,Engagement Year,Engagement Type
+1           AU   2018   9 35MYJMC     60,00OCTOBER   2019Lecture 9                     
+1           AU   2018   9 35MYPYC     66,67JUNE      2018Lecture 10                    
+2           CN   2017   3 53MNJMC     46,67JANUARY   2020Lecture 7                     
+2           CN   2017   3 53MNPYC     86,67FEBRUARY  2023Lecture 13                    
+3           US   2023   8 45FYJMC     46,67AUGUST    2023Lecture 7                     
+3           US   2023   8 45FYPYC     20,00OCTOBER   2023Lecture 3                     
+4           GB   2019   4 69UNJMC     86,67NOVEMBER  2023Lecture 13                    
+4           GB   2019   4 69UNPYC     33,33JUNE      2019Lecture 5                     
+5           AU   2015  10 59MYJMC     46,67SEPTEMBER 2015Lecture 7                     
+5           AU   2015  10 59MYPYC     66,67JANUARY   2018Lecture 10                    
