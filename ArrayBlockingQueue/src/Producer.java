@@ -1,7 +1,5 @@
-import java.util.List;
 import java.util.Random;
 import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.locks.ReentrantLock;
 
 public class Producer implements Runnable{
 

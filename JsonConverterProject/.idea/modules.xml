@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JsonConverterProject.iml" filepath="$PROJECT_DIR$/JsonConverterProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.exercises.school/com.exercises.school.iml" filepath="$PROJECT_DIR$/com.exercises.school/com.exercises.school.iml" />
     </modules>
   </component>
 </project>

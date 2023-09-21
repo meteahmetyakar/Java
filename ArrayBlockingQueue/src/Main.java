@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.concurrent.*;
-import java.util.concurrent.locks.ReentrantLock;
 
 // Here, I implemented ArrayBlockingQueue instead of ArrayList to the ProducerConsumer
 

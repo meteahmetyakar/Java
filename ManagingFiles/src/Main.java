@@ -4,8 +4,6 @@ import java.nio.channels.FileChannel;
 import java.nio.file.*;
 import java.nio.file.spi.FileSystemProvider;
 
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
 public class Main {
 	public static void main(String[] args)
 	{

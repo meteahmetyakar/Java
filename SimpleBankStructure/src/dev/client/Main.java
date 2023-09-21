@@ -1,8 +1,8 @@
 package dev.client;
 
-import dev.bank.Bank;
-import dev.bank.BankAccount;
-import dev.bank.BankCustomer;
+import com.exercises.bank.Bank;
+import com.exercises.bank.BankAccount;
+import com.exercises.bank.BankCustomer;
 
 public class Main {
 
