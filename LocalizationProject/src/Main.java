@@ -17,8 +17,6 @@
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.time.format.FormatStyle;
-import java.time.temporal.ChronoField;
-import java.time.temporal.ChronoUnit;
 import java.time.zone.ZoneRules;
 import java.util.List;
 import java.util.Locale;
@@ -27,13 +25,12 @@ import java.util.TreeMap;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 import static java.time.format.DateTimeFormatter.*;
 
 public class Main {
 
-    /* it will keep employees*/
+    /* it will keep employees */
     private record Employee(String name, Locale locale, ZoneId zone)
     {
         public Employee(String name, String locale, String zone) {
@@ -61,7 +58,7 @@ public class Main {
         ZoneRules janesRules = jane.zone.getRules();
         System.out.println(jane + " " + janesRules);
         System.out.println(joe + " " + joesRules);
-        //when check output of above printlns we can say their time difference is 15 hours
+        //when check output of above printlns, we can say their time difference is 15 hours
         //but this is wrong because there can be another parameters as daylight savings rules
         //that's why we'll calculate the time difference with ZonedDateTime
 

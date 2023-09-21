@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GameConsole.iml" filepath="$PROJECT_DIR$/GameConsole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.exercises.game/com.exercises.game.iml" filepath="$PROJECT_DIR$/com.exercises.game/com.exercises.game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.exercises.main/com.exercises.main.iml" filepath="$PROJECT_DIR$/com.exercises.main/com.exercises.main.iml" />
     </modules>
   </component>
 </project>

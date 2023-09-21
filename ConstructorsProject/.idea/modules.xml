@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConstructorsProject.iml" filepath="$PROJECT_DIR$/ConstructorsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.constructors.family/com.constructors.family.iml" filepath="$PROJECT_DIR$/com.constructors.family/com.constructors.family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.constructors.main/com.constructors.main.iml" filepath="$PROJECT_DIR$/com.constructors.main/com.constructors.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.constructors.person/com.constructors.person.iml" filepath="$PROJECT_DIR$/com.constructors.person/com.constructors.person.iml" />
     </modules>
   </component>
 </project>
