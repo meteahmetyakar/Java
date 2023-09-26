@@ -1,4 +1,4 @@
-### My Notes
+### Notes
 |Note|Description|
 |:--:|:--:|
 |[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/My%20Java%20Handbook.pdf)|60 pages of notes I prepared while learning Java.|
@@ -10,7 +10,7 @@
   </a>
 </p> 
 
-### My java projects
+### Java Projects
 |Project|Description|Source Code|
 |:--|:--|:--|
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|[Source Code](https://github.com/meteahmetyakar/knocomy/tree/main/source%20code/knocomy)
@@ -27,7 +27,7 @@
   </a>
 </p> 
 
-#### Learning projects contain sample codes and detailed explanations of the topics specified in the description section.
+### Java Learning Projects
 |Learning Project|Description|
 |:--|:--|
 |[UDPClient](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/UDPClient)|Creating a UDP Client with using DatagramSocket and DatagramPacket classes, and communication with UDP Server
