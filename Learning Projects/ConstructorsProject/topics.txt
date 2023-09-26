@@ -1,3 +1,0 @@
-Instance initializer, Static initializer
-Record Constructor, enum constructor
-enums (constructors, value define with curly braces, working prencible (as enums are final static elements vs) )

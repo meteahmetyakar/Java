@@ -1,1 +1,0 @@
-creating a UDP Client with DatagramSocket and DatagramPacket classes

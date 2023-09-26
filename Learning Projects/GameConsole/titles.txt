@@ -1,4 +1,0 @@
-Sealed Classes
-enum classes with functions
-instance and static init
-generic
