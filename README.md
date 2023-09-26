@@ -1,11 +1,16 @@
-#### My Note
+### My Notes
 |Note|Description|
 |:--:|:--:|
 |[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/My%20Java%20Handbook.pdf)|60 pages of notes I prepared while learning Java.|
 
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p> 
 
-
-#### My java projects
+### My java projects
 |Project|Description|Source Code|
 |:--|:--|:--|
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|[Source Code](https://github.com/meteahmetyakar/knocomy/tree/main/source%20code/knocomy)
@@ -14,7 +19,12 @@
 |[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest map on huge maps and comparison of Dijkstra and BFS algorithms.|[Source Code](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map/tree/main/FindShortestPath)
 |[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|[Source Code](https://github.com/meteahmetyakar/File-Search-with-JTree/tree/main/JTreeOperations)
 
-
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p> 
 
 #### These learning projects includes java topics which I wrote in description, and example codes, additional descriptions of topics etc.
 |Learning Project|Description|
