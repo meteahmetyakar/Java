@@ -37,12 +37,12 @@
 |[Networking](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/Networking)|Using URI, URL, URLConnection classes and reading data from a website.
 |[JDBC](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/JDBC)|JDBC connection, SQLite CRUD operations, JPMS usage and settings. Transaction construction with Java and SQLite.
 |[JUnit](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/JDBC)|JUnit5 usage.
-|[ThreadExercises](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadsExercises)|Overcoming multithreading problems with the ReentrantLock class. Comparison of ReentrantLock class with synchronized keyword.
-|[ThreadIssues](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadsIssues)|Handling and examining multithreading problems such as deadlock, livelock, thread starvation. Overcoming these problems with synchronization.
+|[ThreadExercises](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadExercises)|Overcoming multithreading problems with the ReentrantLock class. Comparison of ReentrantLock class with synchronized keyword.
+|[ThreadIssues](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadIssues)|Handling and examining multithreading problems such as deadlock, livelock, thread starvation. Overcoming these problems with synchronization.
 |[ArrayBlockingQueue](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ArrayBlockingQueue)|ArrayBlockingQueue and its advantages on threads.
 |[ProducerConsumer](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ProducerConsumer)|preventing thread problems using with ReentrantLock and ExecutorService in concurrent programming. Working with Thread Pool.
 |[MessagesProject](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/MessagesProject)|Introduction to synchronization on threads.
-|[ThreadCounter](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadsCounter)|Examining the race condition problem, preparing a counter.
+|[ThreadCounter](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ThreadCounter)|Examining the race condition problem, preparing a counter.
 |[Threads](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/Threads)|Introduction to thread, Runnable interface.
 |[DataStreams](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/DataStreams)|Read/write operations on dat files with Input/Output Streams. Serialization on Java.
 |[RandomAccessFile](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/RandomAccessFile)|RandomAccessFile usage. Its advantages and limits.
