@@ -27,7 +27,7 @@
   </a>
 </p> 
 
-#### These learning projects contain sample codes and detailed explanations of the topics specified in the description section.
+#### Learning projects contain sample codes and detailed explanations of the topics specified in the description section.
 |Learning Project|Description|
 |:--|:--|
 |[UDPClient](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/UDPClient)|Creating a UDP Client with using DatagramSocket and DatagramPacket classes, and communication with UDP Server
