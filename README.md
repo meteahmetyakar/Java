@@ -2,7 +2,7 @@
 |Note|Description|
 |:--:|:--:|
 |[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/My%20Java%20Handbook.pdf)|60 pages of notes I prepared while learning Java.|
-
+##
 <p align="center"> 
   <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
@@ -19,6 +19,7 @@
 |[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest map on huge maps and comparison of Dijkstra and BFS algorithms.|[Source Code](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map/tree/main/FindShortestPath)
 |[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|[Source Code](https://github.com/meteahmetyakar/File-Search-with-JTree/tree/main/JTreeOperations)
 
+##
 <p align="center"> 
   <a href="#">
     <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
@@ -67,5 +68,11 @@
 |[GameConsole](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/GameConsole)|Sealed Classes, enum classes containing methods, Java Generic, instance and static initializer blocks examples.
 |[ConstructorsProject](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/ConstructorsProject)|Instance and Static initializer blocks. Record (canonical and compact constructor), Enum (constructor, pass parameters)
 |[SimpleBankStructure](https://github.com/meteahmetyakar/Java/tree/main/Learning%20Projects/SimpleBankStructure)|Examining deep copy and defensive copy.
+##
 
-
+<p align="center"> 
+  <a href="#">
+    <img src="https://github.com/meteahmetyakar/meteahmetyakar/blob/main/images/line.png"/>
+    <br></br>
+  </a>
+</p> 
