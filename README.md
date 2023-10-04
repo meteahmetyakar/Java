@@ -2,7 +2,7 @@
 |Note|Description|
 |:--|:--|
 |[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/My%20Java%20Handbook.pdf)|60 pages of notes I prepared while learning Java.|
-|[Design Patterns Handbook](https://github.com/meteahmetyakar/Java/blob/main/Design%20Patterns/Design%20Patterns%20Handbook.docx)|My notes prepared by briefly discussing the System Approach, SOLID, and GRASP principles, followed by a detailed explanation of the GoF design patterns. ***(I am currently working on these topics and constantly updating this file. I will upload the pdf version when it is finished.)***|
+|[Design Patterns Handbook](https://github.com/meteahmetyakar/Java/blob/main/Design%20Patterns/Design%20Patterns%20Handbook.docx)|It includes my notes on the systems approach, SOLID, and GoF Design Patterns. ***(I am currently working on these topics and constantly updating this file.)***|
 
 ##
 <p align="center"> 
