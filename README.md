@@ -38,7 +38,7 @@
 |[TCPServer](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/TCPServer)|Creating TCP Server with Socket and ServerSocket classes and communicating with TCP Client.
 |[Networking](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/Networking)|Using URI, URL, URLConnection classes and reading data from a website.
 |[JDBC](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/JDBC)|JDBC connection, SQLite CRUD operations, JPMS usage and settings. Transaction construction with Java and SQLite.
-|[JUnit](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/JDBC)|JUnit5 usage.
+|[JUnit](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/JUnit)|JUnit5 usage.
 |[ThreadExercises](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/ThreadExercises)|Overcoming multithreading problems with the ReentrantLock class. Comparison of ReentrantLock class with synchronized keyword.
 |[ThreadIssues](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/ThreadIssues)|Handling and examining multithreading problems such as deadlock, livelock, thread starvation. Overcoming these problems with synchronization.
 |[ArrayBlockingQueue](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/ArrayBlockingQueue)|ArrayBlockingQueue and its advantages on threads.
