@@ -33,8 +33,8 @@
 |Learning Project|Description|
 |:--|:--|
 |[UDPClient](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/UDPClient)|Creating a UDP Client with using DatagramSocket and DatagramPacket classes, and communication with UDP Server
-|[UDPServer](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/UDPClient)|Creating a UDP Server with using DatagramSocket and DatagramPacket classes, and communication with UDP Client
-|[TCPClient](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/UDPClient)|Creating TCP Client with Socket class and communicating with TCP Server.
+|[UDPServer](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/UDPServer)|Creating a UDP Server with using DatagramSocket and DatagramPacket classes, and communication with UDP Client
+|[TCPClient](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/TCPClient)|Creating TCP Client with Socket class and communicating with TCP Server.
 |[TCPServer](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/TCPServer)|Creating TCP Server with Socket and ServerSocket classes and communicating with TCP Client.
 |[Networking](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/Networking)|Using URI, URL, URLConnection classes and reading data from a website.
 |[JDBC](https://github.com/meteahmetyakar/Java/tree/main/Java%20Learning%20Projects/JDBC)|JDBC connection, SQLite CRUD operations, JPMS usage and settings. Transaction construction with Java and SQLite.
