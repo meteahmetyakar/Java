@@ -1,8 +1,8 @@
 ### Notes
-|Note|Description|Download|
-|:--|:--|:--:|
-|[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf)|60 pages of handbook I prepared while learning Java.|[:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf?raw=true)|
-|[Design Principles](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf)|My handbook explaining some design principles such as ***GRASP, SOLID*** and ***Law of Demeter***.|[:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf?raw=true)|
+|Note|Description|
+|:--|:--|
+|[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf) [:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf?raw=true)|60 pages of handbook I prepared while learning Java.|
+|[Design Principles](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf) [:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf?raw=true)|My handbook explaining some design principles such as ***GRASP, SOLID*** and ***Law of Demeter***.|
 <!-- |[Design Patterns Handbook](https://github.com/meteahmetyakar/Java/blob/main/Design%20Patterns/Design%20Patterns%20Handbook.pdf)|It includes my notes on GoF Design Patterns. ***(I am currently working on these topics and constantly updating this file.)***|
 -->
 
@@ -15,13 +15,13 @@
 </p> 
 
 ### Java Projects
-|Project|Description|Source Code|
-|:--|:--|:--|
-|[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|[Source Code](https://github.com/meteahmetyakar/knocomy/tree/main/source%20code/knocomy)
-|[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|[Source Code](https://github.com/meteahmetyakar/vet-booking/tree/main/source%20code/bookingsystem)
-|[Tetris Game](https://github.com/meteahmetyakar/Tetris-GUI)|A simple tetris game which develop in java swing|[Source Code](https://github.com/meteahmetyakar/Tetris-GUI/tree/main/source%20code)
-|[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest map on huge maps and comparison of Dijkstra and BFS algorithms.|[Source Code](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map/tree/main/FindShortestPath)
-|[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|[Source Code](https://github.com/meteahmetyakar/File-Search-with-JTree/tree/main/JTreeOperations)
+|Project|Description|
+|:--|:--|
+|[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|
+|[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|
+|[Tetris Game](https://github.com/meteahmetyakar/Tetris-GUI)|A simple tetris game which develop in java swing|
+|[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest map on huge maps and comparison of Dijkstra and BFS algorithms.|
+|[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|
 
 ##
 <p align="center"> 
