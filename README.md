@@ -1,10 +1,10 @@
 ### Notes
 |Note|Description|
 |:--|:--|
-|[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf) [:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf?raw=true)|60 pages of handbook I prepared while learning Java.|
-|[Design Principles](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf) [:floppy_disk:](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf?raw=true)|My handbook explaining some design principles such as ***GRASP, SOLID*** and ***Law of Demeter***.|
-<!-- |[Design Patterns Handbook](https://github.com/meteahmetyakar/Java/blob/main/Design%20Patterns/Design%20Patterns%20Handbook.pdf)|It includes my notes on GoF Design Patterns. ***(I am currently working on these topics and constantly updating this file.)***|
--->
+|[Java Handbook](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf) [:page_facing_up:](https://github.com/meteahmetyakar/Java/blob/main/Java%20Handbook.pdf?raw=true)|60 pages of handbook I prepared while learning Java.|
+|[Design Principles](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf) [:page_facing_up:](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf?raw=true)|My handbook explaining some design principles such as ***GRASP, SOLID*** and ***Law of Demeter***.|
+|[Design Patterns](https://github.com/meteahmetyakar/Java/blob/main/Design%20Patterns/Design%20Patterns%20Handbook.pdf) [:page_facing_up:](https://github.com/meteahmetyakar/Java/blob/main/Design%20Principles.pdf?raw=true)|It includes my notes on GoF Design Patterns. ***(I am currently working on these topics and constantly updating this file.)***|
+
 
 ##
 <p align="center"> 
