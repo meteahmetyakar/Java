@@ -22,7 +22,7 @@
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|
 |[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|
 |[Tetris Game](https://github.com/meteahmetyakar/Tetris-GUI)|A simple tetris game which develop in java swing|
-|[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest map on huge maps and comparison of Dijkstra and BFS algorithms.|
+|[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest path of two point on huge maps and comparison of Dijkstra and BFS algorithms.|
 |[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|
 
 ##
