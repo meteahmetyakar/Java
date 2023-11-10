@@ -21,7 +21,7 @@
 |:--|:--|
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|
 |[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|
-|[Tetris Game](https://github.com/meteahmetyakar/Tetris-GUI)|A simple tetris game which develop in java swing|
+|[Tetris Project](https://github.com/meteahmetyakar/Project-Tetris)|A self-playing tetris game that tries to best align tetrominos, and a playable tetris game which developed in Java Swing|
 |[Finding Shortest Path on Huge Maps](https://github.com/meteahmetyakar/Finding-Shortest-Path-on-Huge-Map)|Finding the shortest path of two point on huge maps and comparison of Dijkstra and BFS algorithms.|
 |[File Search with JTree](https://github.com/meteahmetyakar/File-Search-with-JTree)|Implementation of traversal algorithms such as DFS, BFS, post-order traversal on JTree.|
 
