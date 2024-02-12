@@ -19,7 +19,7 @@
 ### Java Projects
 |Project|Description|
 |:--|:--|
-|[STS-Mobile Side](https://github.com/meteahmetyakar/STS-Mobile-Side)|Mobile side of Student Tracking System which we develop for a private school|
+|[STS-Mobile Side](https://github.com/meteahmetyakar/STS-Mobile-Side)|Mobile side of [Student Tracking System](https://github.com/Project-AA-ORG) which we develop for a private school|
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|
 |[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|
 |[Tetris Project](https://github.com/meteahmetyakar/Project-Tetris)|A self-playing tetris game that tries to best align tetrominos, and a playable tetris game which developed in Java Swing|
