@@ -20,6 +20,8 @@
 |Project|Description|
 |:--|:--|
 |[STS-Mobile Side](https://github.com/meteahmetyakar/STS-Mobile-Side)|Mobile side of [Student Tracking System](https://github.com/Project-AA-ORG) which we develop for a private school|
+|[Turkish Airlines Best Price Guarantee](https://github.com/meteahmetyakar/TurkishAirlines-Best-Price-Guarantee) | This project was developed for the hackathon after the "Turkish Technology Fintech Bootcamp" and is one of the finalist projects of the hackathon. |
+|[Employee Directory](https://github.com/meteahmetyakar/employee-directory-springboot/tree/main)| This spring boot project is a sample employee directory with CRUD functionalities. In this project, Spring Data JPA is used for CRUD functionalities and Spring AOP is used keep track of transaction, auditing, scheduled logging, and shutdown situations. |
 |[Knocomy](https://github.com/meteahmetyakar/knocomy)|A knowledge competition game which developed in android studio|
 |[Vet Booking](https://github.com/meteahmetyakar/vet-booking)|A vet booking system which developed using android studio and java|
 |[Tetris Project](https://github.com/meteahmetyakar/Project-Tetris)|A self-playing tetris game that tries to best align tetrominos, and a playable tetris game which developed in Java Swing|
